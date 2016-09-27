@@ -3,17 +3,24 @@ a {
 }
 
 a:visited {
-  color: mediumspringgreen;
+  color: red;
+  background-color: #76988F;
 }
 
 a:hover {
-  color: transparent;
+  color: black;
+  background-color: #76988F;
 }
 
 a:focus {
-  background-color: darkorange;
+  color: #76988F;
+  background-color: black;
 }
 
 a:active {
-  background-color: lightgreen;
+  color: black;
+  background-color: grba(118,152,143,.25);
+  font-weight: bold;
+  font-variant-caps: small-caps;
+  font-size: 1.5rem;
 }
