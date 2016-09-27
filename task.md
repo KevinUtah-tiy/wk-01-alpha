@@ -15,11 +15,12 @@
 - appropriate git commits are made –at an absolute minimum– including:
 - [ ] the empty repo
 - [ ] the final repo
+
 - the html page must include:
 - [ ] at least two heading levels
 - [ ] a paragraph
 - [ ] an image
 - [ ] a link
-- [ ] a list with bullets
-- [ ] a list w/o bullets
+- [ ] a list with bullets OR w/o bullets
+
 
