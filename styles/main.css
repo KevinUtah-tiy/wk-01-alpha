@@ -1,9 +1,19 @@
+body{
+  display:inline block;
+}
+
 h1 {
   text-align: center;
 }
 
 h2 {
+  margin-left: 2em;
+  font-style: italic;
+  text-decoration: underline;
+}
 
+p {
+  margin-left: 2em;
 }
 
 #subtitle {
