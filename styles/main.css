@@ -1,13 +1,10 @@
 body{
-  display:inline block;
-  background-image: url(http://www.colourbox.com/preview/1493880-872056-branches-and-leaves-of-a-juniper-high-res-texture.jpg);
-  background-position: center center;
-  background-repeat: none; background-attachment: fixed;
+
 }
 
 h1 {
   text-align: center;
-  background-color: grba(118,152,143,.25);
+  /*background-color: grba(118,152,143,.25);*/
 }
 
 h2 {
@@ -24,13 +21,6 @@ p {
 #subtitle {
   font-weight: bold;
   text-align: center;
-  background-color: #76987F;
-  opacity: 0.75;
-}
-
-h1, .first, .second, .third, .fourth, .fifth {
-  background-color: #76987F;
-  opacity: 0.75;
 }
 
 ul {
