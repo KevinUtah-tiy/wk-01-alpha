@@ -4,6 +4,7 @@ body{
 
 .header {
   text-align:center;
+  margin-bottom: 10rem;
 }
 
 h1 {
@@ -36,4 +37,11 @@ ul {
 
 .left {
   float: left;
+  position:absolute;;
+  text-align: left;
+}
+
+.right {
+  float: right;
+  text-align: right;
 }
