@@ -33,3 +33,7 @@ ul {
   font-size: 1.125rem;
   list-style-type: none;
 }
+
+.left {
+  float: left;
+}
