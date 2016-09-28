@@ -2,8 +2,14 @@ body{
 
 }
 
+.header {
+  text-align:center;
+}
+
 h1 {
-  text-align: center;
+  font-size: 4rem;
+  font-variant: small-caps;
+  margin-bottom: 0px;
 }
 
 h2 {
@@ -19,10 +25,11 @@ p {
 
 #subtitle {
   font-weight: bold;
+  margin-top: 0px;
   text-align: center;
 }
 
 ul {
   font-size: 1.125rem;
-  list-style-type: circle;
+  list-style-type: none;
 }
