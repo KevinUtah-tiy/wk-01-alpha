@@ -19,8 +19,8 @@ a:focus {
 
 a:active {
   color: black;
-  background-color: grba(118,152,143,.25);
+  background-color: grba(118,152,143, 1);
   font-weight: bold;
-  font-variant-caps: small-caps;
+  font-variant: small-caps;
   font-size: 1.5rem;
 }
