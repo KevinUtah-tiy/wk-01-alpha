@@ -9,12 +9,12 @@ a:visited {
 
 a:hover {
   color: black;
-  background-color: #76988F;
+  background-color: #white;
 }
 
 a:focus {
-  color: #76988F;
-  background-color: black;
+  color: white;
+  background-color: #76988F;
 }
 
 a:active {
