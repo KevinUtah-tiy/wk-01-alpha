@@ -15,6 +15,7 @@ h1 {
 
 h2 {
   margin-left: 2em;
+  margin-bottom: 0rem;
   font-style: italic;
   text-decoration: underline;
 }
@@ -22,6 +23,8 @@ h2 {
 p {
   margin-left: 2em;
   font-size: 1.5rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 
 #subtitle {
@@ -44,4 +47,16 @@ ul {
 .right {
   float: right;
   text-align: right;
+}
+
+.top {
+  font-size: 0.75rem;
+  color: black;
+}
+
+.top, a a:hover a:visited a:focus a:active{
+  background-color: white;
+  font-size: 0.75rem;
+  color: black;
+  margin-top: 0rem;
 }
