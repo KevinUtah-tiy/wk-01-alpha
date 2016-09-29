@@ -8,7 +8,7 @@ img {
   width: 33%;
   display: block;
   margin: auto;
-  
+
 }
 
 .row1 {
@@ -30,4 +30,11 @@ img {
 .row2{
   float: left;
   max-width: 100%;
+}
+
+/*these are keepers*/
+#ul1 {
+  /*display: inline;*/
+  margin: 0;
+  padding: 0;
 }
