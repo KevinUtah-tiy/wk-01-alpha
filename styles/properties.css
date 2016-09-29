@@ -33,16 +33,14 @@ img {
 }
 
 /*these are keepers*/
-#ul1 {
-  /*display: inline;*/
-  margin: 0;
-  padding: 0;
+.ul1 {
+  text-align: left;
+  margin-left: auto;
+  margin-top: auto;
+  float: left;
 }
 
 .ul2 {
-  float: right;
-  position: static;
-  margin-left: 75%;
-  margin-top: -4%;
-  /*margin-bottom: 95%;*/
+  text-align: right;
+  padding-top: 2%;
 }
