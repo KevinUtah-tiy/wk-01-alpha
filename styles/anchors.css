@@ -4,7 +4,7 @@ a {
 
 a:visited {
   color: red;
-  background-color: #76988F;
+  background-color: white;
 }
 
 a:hover {
@@ -19,8 +19,44 @@ a:focus {
 
 a:active {
   color: black;
-  background-color: grba(118,152,143, 1);
+  background-color: white;
   font-weight: bold;
   font-variant: small-caps;
   font-size: 1.5rem;
+}
+
+/* --------------------------------
+--------this is practice-----------
+--------for linking----------------
+------------------------------------*/
+
+.top a {
+  color: #76988F;
+  font-size: 1rem;
+}
+
+.top a:visited {
+  color: black;
+  background-color: white;
+  font-size: 0.75rem;
+}
+
+.top a:hover {
+  color: white;
+  background-color: black;
+  font-size: 1.25rem;
+}
+
+.top a:focus {
+  color: white;
+  background-color: #76988F;
+  font-size: 0.75rem;
+}
+
+.top a:active {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 1rem;
 }

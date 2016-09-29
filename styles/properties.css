@@ -5,7 +5,29 @@
 img {
   border: 5px double #76988F;
   border-radius: 50%;
-  height: 400px;
-  margin-left: 40px;
-  padding: 2px;
+  width: 33%;
+  display: block;
+  margin: auto;
+  
+}
+
+.row1 {
+  float: left;
+  max-width: 100%;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+
+
+.clearfix:after {
+  clear: both;
+}
+
+.row2{
+  float: left;
+  max-width: 100%;
 }

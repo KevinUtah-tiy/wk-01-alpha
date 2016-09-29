@@ -5,6 +5,7 @@ body{
 .header {
   text-align:center;
   margin-bottom: 10rem;
+  /*width: 100%;*/
 }
 
 h1 {
@@ -15,22 +16,26 @@ h1 {
 
 h2 {
   margin-left: 2em;
-  margin-bottom: 0rem;
+  margin-bottom: .75rem;
   font-style: italic;
   text-decoration: underline;
+  text-align: center;
 }
 
 p {
-  margin-left: 2em;
-  font-size: 1.5rem;
-  margin-top: 0rem;
+  margin-left: 3em;
+  font-size: 1.125rem;
+  margin-top: .75rem;
   margin-bottom: 0rem;
+  /*width: auto;*/
 }
 
 #subtitle {
   font-weight: bold;
   margin-top: 0px;
   text-align: center;
+  font-size: 1.125rem;
+  width: 92%;
 }
 
 ul {
@@ -42,11 +47,15 @@ ul {
   float: left;
   position:absolute;;
   text-align: left;
+  /*position: fixed;
+  width: 100%;*/
 }
 
 .right {
   float: right;
   text-align: right;
+  /*position: fixed;
+  width: 100%;*/
 }
 
 .top {
@@ -59,4 +68,38 @@ ul {
   font-size: 0.75rem;
   color: black;
   margin-top: 0rem;
+}
+
+.first {
+  max-width: 33%;
+  float: left;
+}
+
+.second {
+  max-width: 33%;
+  float: left;
+}
+
+.third {
+  max-width: 33%;
+  float: left;
+}
+
+.fourth {
+  max-width: 30%;
+  float: left;
+}
+
+.fifth {
+  max-width: 30%;
+  float: left;
+}
+
+.footer {
+  text-align: center;
+  font-style: oblique;
+  position: absolute bottom;
+  font-size: .75rem;
+  padding-top: 90%;
+  width: 100%;
 }
