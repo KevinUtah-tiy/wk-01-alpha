@@ -38,3 +38,11 @@ img {
   margin: 0;
   padding: 0;
 }
+
+.ul2 {
+  float: right;
+  position: static;
+  margin-left: 75%;
+  margin-top: -4%;
+  /*margin-bottom: 95%;*/
+}
