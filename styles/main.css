@@ -95,11 +95,17 @@ ul {
   float: left;
 }
 
-.footer {
+footer { <!--keep this one -->
   text-align: center;
   font-style: oblique;
   position: absolute bottom;
   font-size: .75rem;
-  padding-top: 90%;
-  width: 100%;
+}
+
+footer ul {
+  text-align: center;
+}
+
+main {
+
 }

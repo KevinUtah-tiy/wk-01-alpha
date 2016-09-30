@@ -7,10 +7,10 @@ a:visited {
   background-color: white;
 }
 
-a:hover {
-  color: black;
-  background-color: #white;
-}
+  a:hover {
+    color: black;
+    background-color: #white;
+  }
 
 a:focus {
   color: white;
@@ -26,8 +26,8 @@ a:active {
 }
 
 /* --------------------------------
---------this is practice-----------
---------for linking----------------
+--------this is for the------------
+--------top part of page-----------
 ------------------------------------*/
 
 .top a {

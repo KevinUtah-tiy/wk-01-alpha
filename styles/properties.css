@@ -42,5 +42,19 @@ img {
 
 .ul2 {
   text-align: right;
-  padding-top: 2%;
+  /*padding-top: 2%;*/
+}
+
+.internal {
+  float: left;
+}
+
+.resource {
+  float: left;
+  margin-left: 2rem;
+}
+
+.profile {
+  float: right;
+  /*text-align: right;*/
 }
